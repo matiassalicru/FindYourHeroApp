@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre HeroScreen Debe de mostrar el componente Redirect si no hay argumentos en el url 1`] = `""`;
+
+exports[`Pruebas sobre HeroScreen Debe renderizar el componente heroScreen 1`] = `
+<div
+  className="row mt-5"
+>
+  <div
+    className="col-4"
+  >
+    <img
+      alt="Spider Man"
+      className="img-thumbnail animate__animated animate__fadeInLeft"
+      src="../assets/heroes/marvel-spider.jpg"
+    />
+  </div>
+  <div
+    className="col8 animate__animated animate__fadeInLeft"
+  >
+    <h3>
+      Spider Man
+    </h3>
+    <ul
+      className="list-group list-group-flush "
+    >
+      <li
+        className="list-group-item"
+      >
+        <b>
+           Alter ego:
+        </b>
+         
+        Peter Parker
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <b>
+          Publisher: 
+        </b>
+         
+        Marvel Comics
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <b>
+          Appearance: 
+        </b>
+         
+        Amazing Fantasy #15
+      </li>
+    </ul>
+    <h5>
+       characters 
+    </h5>
+    <p>
+      Peter Parker
+    </p>
+    <button
+      className="btn btn-outline-info"
+      onClick={[Function]}
+    >
+      Return
+    </button>
+  </div>
+</div>
+`;
